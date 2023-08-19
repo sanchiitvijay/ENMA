@@ -37,8 +37,7 @@ https://github.com/sanchiitvijay/ENMA/assets/71404343/ddd81c01-6544-43f6-839a-ef
 
 ## Screenshots
 
-[![homepage](public/images/site/ENMA_homepage.mp4)](https://github.com/sanchiitvijay/ENMA/assets/71404343/ddd81c01-6544-43f6-839a-ef3abd7e47f1
-)
+https://github.com/sanchiitvijay/ENMA/assets/71404343/ddd81c01-6544-43f6-839a-ef3abd7e47f1
 <br>
 ![display](public/images/site/display.png)
 <br>
