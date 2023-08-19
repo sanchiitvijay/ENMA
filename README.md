@@ -31,8 +31,8 @@ A responsive shopping site for purchasing high-quality katanas, built using HTML
 
 ## Screenshots
 
-![homepage](/enma/public/images/site/ENMA_homepage.mp4.png)
-![display](/enma/public/images/site/display.png)
+![homepage](public/images/site/ENMA_homepage.mp4.png)
+![display](public/images/site/display.png)
 ![contactus](/enma/public/images/site/contact_us.png)
 ![faqs](/enma/public/images/site/faqs.jpeg)
 ![login](/enma/public/images/site/login.png)
