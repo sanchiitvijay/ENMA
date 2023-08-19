@@ -7,13 +7,7 @@ Explore our virtual gallery, where each katana comes to life with vivid imagery 
 
 A responsive shopping site for purchasing high-quality katanas, built using HTML, CSS, JavaScript, and Bootstrap.
 
-    
-
 https://github.com/sanchiitvijay/ENMA/assets/71404343/ddd81c01-6544-43f6-839a-ef3abd7e47f1
-
-
-
-ng)
 
 <br>
 
@@ -43,7 +37,8 @@ ng)
 
 ## Screenshots
 
-![homepage](public/images/site/ENMA_homepage.mp4)
+[![homepage](public/images/site/ENMA_homepage.mp4)](https://github.com/sanchiitvijay/ENMA/assets/71404343/ddd81c01-6544-43f6-839a-ef3abd7e47f1
+)
 <br>
 ![display](public/images/site/display.png)
 <br>
